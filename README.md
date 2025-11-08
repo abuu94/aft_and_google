@@ -9,3 +9,9 @@ Venue (Nairobi): https://community.africastalking.com/e/mgk6rh/
   - Complete real-world assignments
   - Capstone project to build production-ready applications
   - That combine Generative AI and APIs to solve industry challenges.
+
+
+Testing Tools for APIs:
+ - Swagger
+ - Postman
+ - Thunder Client
