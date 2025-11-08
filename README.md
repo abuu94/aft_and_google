@@ -1,6 +1,7 @@
 # AI skills using Africa’s Talking APIs and Google AI & Cloud.
 LaunchPad: Generative AI + APIs for Innovation:  a developer program that blends Google Cloud’s Generative AI expertise with Africa’s Talking APIs.
 
+Google Skills: https://www.skills.google/focuses/2794?parent=catalog&path=8
 Venue (Nairobi): https://community.africastalking.com/e/mgk6rh/
   - Date: 9th October 2025
   - Time: 9:30 AM – 5:00 PM
