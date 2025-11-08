@@ -15,3 +15,4 @@ Testing Tools for APIs:
  - Swagger
  - Postman
  - Thunder Client
+ - Curl
