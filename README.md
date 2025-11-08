@@ -18,6 +18,9 @@ Testing Tools for APIs:
  - Curl
 
 # Kickoff – 
+
+Timeline: https://community.africastalking.com/events/details/africas-talking-africas-talking-community-presents-africas-talking-and-google-build-with-ai-program-module-2/
+
 Introduction to program
   - Module 1: Google Cloud & Generative AI Fundamentals
   - Module 2: Foundations of APIs & Africa’s Talking Core Services
