@@ -20,4 +20,9 @@
     https://aistudio.google.com/api-keys
     ```
 
+App Examples:
+- https://studio--studio-84474397-8d9ed.us-central1.hosted.app/
+
+Video:
+ - https://www.youtube.com/watch?v=5qr5t66MFkI
     
