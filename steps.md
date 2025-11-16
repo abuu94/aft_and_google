@@ -5,13 +5,16 @@
 - Coupon Code: TNQ1-4GRY-88H5-UG7T
 
 
-Module 1: 
+- Module 1: 
     - Create a Prototype by using Firebase Studio
-        + Create by Using a Promp
-        + Or By using pre-loaded Templates
+        - Create by Using a Promp
+        - Or By using pre-loaded Templates
+    
     ```
     https://firebase.google.com/docs/studio/get-started-ai
     ```
+
+    
     - Create API in Google AI Studio by using importing a project that is connected with Billing Account
     ```
     https://aistudio.google.com/api-keys
