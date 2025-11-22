@@ -25,4 +25,6 @@ App Examples:
 
 Video:
  - https://www.youtube.com/watch?v=5qr5t66MFkI
-    
+
+Postman: https://www.postman.com/africastalking
+Repo of AT: https://github.com/AfricasTalkingLtd/africastalking-php
