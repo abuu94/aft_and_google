@@ -9,7 +9,15 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/datatables.net": "^1.10.28",
+    "@types/jquery": "^3.5.33",
     "typescript": "~5.9.3",
     "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
+    "datatables.net": "^2.3.5",
+    "datatables.net-bs5": "^2.3.5"
   }
 }
